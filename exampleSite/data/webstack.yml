@@ -3,14 +3,14 @@
 - taxonomy: 常用推荐
   icon: far fa-star
   links: 
-    - title: 语雀
+    - title: 群晖网盘1
       logo: 语雀.webp
-      url: https://www.yuque.com/
-      description: 专业的云端知识库。
-    - title: QQ 邮箱
+      url: https://nas.camerart.cn:9001/?dir=/.DAV
+      description: 专业的网盘1。
+    - title: 群晖网盘2
       logo: qq邮箱.png
-      url: http://mail.qq.com/
-      description: 腾讯 QQ 邮箱。
+      url: https://nas.camerart.cn:8091/index.php?dir=/var
+      description: 网盘2。
     - title: 开源中国
       logo: 开源中国.jpg
       url: https://www.oschina.net/
